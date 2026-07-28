@@ -106,8 +106,8 @@ export const PRICING = {
       ],
     },
     {
-      title: "Self Ride Jet Skiing",
-      note: "",
+      title: "Jet Skiing",
+      note: "Self Ride",
       options: [{ label: "", price: "UGX 100,000" }],
     },
     {
@@ -118,7 +118,7 @@ export const PRICING = {
     {
       title: "Real Tubing",
       note: "",
-      options: [{ label: "", price: "UGX 100,000" }],
+      options: [{ label: "Per person", price: "UGX 100,000" }],
     },
   ],
   special: {
