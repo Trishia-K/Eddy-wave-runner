@@ -3,7 +3,7 @@ import { CONTACT } from "../data/content";
 import useScrollReveal from "../hooks/useScrollReveal";
 
 
-const API_BASE_URL = "http://localhost:3000";
+const API_BASE_URL = "https://eddy-wave-runner-6myn.onrender.com";
 
 const initialForm = { name: "", email: "", message: "" };
 
