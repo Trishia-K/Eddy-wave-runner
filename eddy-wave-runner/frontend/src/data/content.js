@@ -161,10 +161,12 @@ export const SAFETY = [
 export const GALLERY = [
   { image: "/images/gallery-jetski-1.jpg", alt: "Jet ski riders on Lake Victoria" }, 
   { image: "/images/gallery-tubing-1.jpg", alt: "Real tubing action shot" }, 
-  { image: "/images/gallery-boat-1.jpg", alt: "Boat cruise along the shoreline" }, 
+  { image: "/images/service-boat-cruise.jpg", alt: "Boat cruise along the shoreline" }, 
   { image: "/images/gallery-drone-1.jpg", alt: "Drone shot of Coco Beach" }, 
   { image: "/images/gallery-sunset-1.jpg", alt: "Sunset over Lake Victoria" }, 
   { image: "/images/gallery-customers-1.jpg", alt: "Happy customers on the water" }, 
+  { image: "/images/gallery-family-1.jpg", alt: "Happy customers on the water" }, 
+  { image: "/images/gallery-jetski-2.jpg", alt: "Happy customers on the water" }, 
 ];
 
 export const WHY_CHOOSE_US = [
