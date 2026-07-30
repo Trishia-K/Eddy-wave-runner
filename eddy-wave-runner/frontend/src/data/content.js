@@ -10,12 +10,13 @@ export const BOOKING_FORM_URL = "https://forms.gle/J1r4sL5yJG2n3Fgz7";
 export const CONTACT = {
   name: "Eddy Wave Runner",
   location: "Coco Beach, Entebbe, Uganda",
-  phone: "+256 791 107938", 
-  whatsapp: "https://wa.me/256700000000", 
-  email: "info@eddywaverunner.com", 
-  facebook: "https://facebook.com/eddywaverunner",
-  instagram: "https://instagram.com/eddywaverunner", 
-  tiktok: "https://tiktok.com/@eddywaverunner", 
+  phone: "+256751730181", 
+  whatsapp: "https://wa.me/256791107938", 
+  email: "eddywaverunner@info.com", 
+  facebook: "https://www.facebook.com/eddywaverunnerspeedboats",
+  instagram: "https://www.instagram.com/eddywaverunner/", 
+  tiktok: "https://www.tiktok.com/@eddywaverunner", 
+  X: "https://x.com/eddywaverunner",
   mapsEmbedUrl:
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.0!2d32.4599!3d0.0611!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sCoco+Beach+Entebbe!5e0!3m2!1sen!2sug", // TODO: swap for the exact embed link from Google Maps
 };
@@ -158,12 +159,12 @@ export const SAFETY = [
 ];
 
 export const GALLERY = [
-  { image: "/images/gallery-jetski-1.jpg", alt: "Jet ski riders on Lake Victoria" }, // TODO
-  { image: "/images/gallery-tubing-1.jpg", alt: "Real tubing action shot" }, // TODO
-  { image: "/images/gallery-boat-1.jpg", alt: "Boat cruise along the shoreline" }, // TODO
-  { image: "/images/gallery-drone-1.jpg", alt: "Drone shot of Coco Beach" }, // TODO
-  { image: "/images/gallery-sunset-1.jpg", alt: "Sunset over Lake Victoria" }, // TODO
-  { image: "/images/gallery-customers-1.jpg", alt: "Happy customers on the water" }, // TODO
+  { image: "/images/gallery-jetski-1.jpg", alt: "Jet ski riders on Lake Victoria" }, 
+  { image: "/images/gallery-tubing-1.jpg", alt: "Real tubing action shot" }, 
+  { image: "/images/gallery-boat-1.jpg", alt: "Boat cruise along the shoreline" }, 
+  { image: "/images/gallery-drone-1.jpg", alt: "Drone shot of Coco Beach" }, 
+  { image: "/images/gallery-sunset-1.jpg", alt: "Sunset over Lake Victoria" }, 
+  { image: "/images/gallery-customers-1.jpg", alt: "Happy customers on the water" }, 
 ];
 
 export const WHY_CHOOSE_US = [
