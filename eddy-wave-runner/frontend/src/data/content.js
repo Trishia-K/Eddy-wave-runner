@@ -164,12 +164,12 @@ export const GALLERY = [
   { image: "/images/service-boat-cruise.jpg", alt: "Boat cruise along the shoreline" }, 
   { image: "/images/gallery-family-1.jpg", alt: "Feel the thrill" }, 
   { image: "/images/gallery-jetski-2.jpg", alt: "Sunset" },
-  { image: "/images/gallery-lake-1.jpg", alt: "Lake" }
+  { image: "/images/gallery-lake-1.jpg", alt: "Lake" },
+  { image: "/images/gallery-corporate-1.jpg", alt: "View" },
   { image: "/images/gallery-customers-1.jpg", alt: "Happy customers on the water" }, 
   { image: "/images/gallery-sunset-1.jpg", alt: "Sunset over Lake Victoria" },
   { image: "/images/gallery-drone-1.jpg", alt: "Drone shot of Coco Beach" }, 
- // { image: "/images/gallery-family-1.jpg", alt: "Feel the thrill" }, 
- // { image: "/images/gallery-jetski-2.jpg", alt: "Sunset" }, 
+
   //{ image: "/images/gallery-lake-1.jpg", alt: "Lake" }, 
  // { image: "/images/gallery-corporate-1.jpg", alt: "View" }, 
  // { image: "/images/gallery-jetski-2.jpg", alt: "Sunset" }, 
