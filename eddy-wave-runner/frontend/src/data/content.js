@@ -165,7 +165,7 @@ export const GALLERY = [
   { image: "/images/gallery-family-1.jpg", alt: "Feel the thrill" }, 
   { image: "/images/gallery-jetski-2.jpg", alt: "Sunset" },
   { image: "/images/gallery boat.jpg", alt: "Lake" },
-  { image: "/images/gallery boat image.jpg", alt: "View" },
+  { image: "/images/gallery-boat-image.jpg", alt: "View" },
   { image: "/images/gallery-customers-1.jpg", alt: "Happy customers on the water" }, 
   { image: "/images/gallery-sunset-1.jpg", alt: "Sunset over Lake Victoria" },
   { image: "/images/gallery-drone-1.jpg", alt: "Drone shot of Coco Beach" }, 
